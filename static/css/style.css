@@ -1,0 +1,14 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: rgb(150, 202, 223);
+    color: whitesmoke;
+}
+
+form {
+    display: inline-block;
+
+}
